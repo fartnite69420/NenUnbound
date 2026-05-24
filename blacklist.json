@@ -1,0 +1,8 @@
+{
+  "blacklist": [
+    {
+      "uuid": "PLAYER-UUID-HERE",
+      "reason": "Banned from HunterCraft servers."
+    }
+  ]
+}
