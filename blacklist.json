@@ -1,7 +1,31 @@
 {
   "blacklist": [
     {
-      "uuid": "PLAYER-UUID-HERE",
+      "uuid": "786ecd39-f0d3-4b8d-960c-c3b20dd5d7a3",
+      "reason": "Banned from HunterCraft servers."
+    }
+  ]
+},
+{
+  "blacklist": [
+    {
+      "uuid": "48c7b758-ef8c-464f-a77d-05246e8097f2",
+      "reason": "Banned from HunterCraft servers."
+    }
+  ]
+},
+{
+  "blacklist": [
+    {
+      "uuid": "40a692ce-5842-43e9-b581-828375f90162",
+      "reason": "Banned from HunterCraft servers."
+    }
+  ]
+},
+{
+  "blacklist": [
+    {
+      "uuid": "c946daae-c45a-4d8a-984a-5a122c8cfdad",
       "reason": "Banned from HunterCraft servers."
     }
   ]
