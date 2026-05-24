@@ -1,0 +1,32 @@
+{
+  "parry": {
+    "sounds": [
+      "huntercraft:parry"
+    ]
+  },
+  "slash": {
+    "sounds": [
+      "huntercraft:slash"
+    ]
+  },
+  "punch": {
+    "sounds": [
+      "huntercraft:punch"
+    ]
+  },
+  "dash": {
+    "sounds": [
+      "huntercraft:dash"
+    ]
+  },
+  "teleport": {
+    "sounds": [
+      "huntercraft:teleport"
+    ]
+  },
+  "ground_smash": {
+    "sounds": [
+      "huntercraft:ground_smash"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "parent": "huntercraft:item/smoking_pipe",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [-35, 0, 0],
+      "translation": [-2.75, -23.75, -10.0]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [-35, 0, 0],
+      "translation": [-2.75, -23.75, -10.0]
+    },
+    "firstperson_righthand": {
+      "rotation": [43.75, 0, 0],
+      "translation": [3.75, -3, -10.5]
+    },
+    "firstperson_lefthand": {
+      "rotation": [43.75, 0, 0],
+      "translation": [3.75, -3, -10.5]
+    },
+    "gui": {
+      "rotation": [91.77, 44.89, -92.57],
+      "translation": [-2.75, -3.75, 0],
+      "scale": [0.4, 0.4, 0.4]
+    },
+    "fixed": {
+      "rotation": [91.77, 44.89, -92.57],
+      "translation": [-4, -4.75, 0],
+      "scale": [0.5, 0.5, 0.5]
+    },
+    "ground": {
+      "rotation": [90, 0, 0],
+      "translation": [0, 2, -7.75],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

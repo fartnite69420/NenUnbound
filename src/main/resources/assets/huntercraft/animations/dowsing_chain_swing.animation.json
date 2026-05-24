@@ -1,0 +1,25 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "swing": {
+      "loop": true,
+      "animation_length": 0.6,
+      "bones": {
+        "chain_orbit": {
+          "rotation": {
+            "0.0": [0, 0, 0],
+            "0.3": [0, 180, 0],
+            "0.6": [0, 360, 0]
+          }
+        },
+        "chain_head": {
+          "rotation": {
+            "0.0": [0, 0, 0],
+            "0.3": [0, 180, 0],
+            "0.6": [0, 360, 0]
+          }
+        }
+      }
+    }
+  }
+}
