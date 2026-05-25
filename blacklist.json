@@ -29,4 +29,12 @@
       "reason": "Pedophila."
     }
   ]
+},
+{
+  "blacklist": [
+    {
+      "uuid": "65a521ba-037e-4a7b-97c3-d3edf28e4764",
+      "reason": "Pedophila."
+    }
+  ]
 }
