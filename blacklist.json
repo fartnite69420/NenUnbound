@@ -17,14 +17,6 @@
 {
   "blacklist": [
     {
-      "uuid": "40a692ce-5842-43e9-b581-828375f90162",
-      "reason": "Hacking."
-    }
-  ]
-},
-{
-  "blacklist": [
-    {
       "uuid": "c946daae-c45a-4d8a-984a-5a122c8cfdad",
       "reason": "Pedophila."
     }
